@@ -1,0 +1,17 @@
+{
+  "name": "angularjs1-component",
+  "description": "App Test",
+  "main": "index.htm",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-ui-router": "*"
+  }
+}
